@@ -11,10 +11,10 @@
 ## 📕概要📕
 - プレフィックス：`y.`
 - 作成期間：`4ヵ月`
-- 合計行数：`行数`
+- 合計行数：`2,200`
 - 使用言語：`Javascript | Node.js | Discord.js`
 - 開発環境：`VisualStudioCode`
-- 実行環境：`Replit`
+- 実行環境：`Glitch`
 
 ## 🔧コマンド🔧
 ```y.avator```
